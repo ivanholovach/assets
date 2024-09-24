@@ -1,0 +1,65 @@
+/* Regular */
+@font-face {
+  font-family: 'JetSetSans';
+  src: url('WOFF2/JetSetSans.woff2') format('woff2'),
+  url('WOFF/JetSetSans.woff') format('woff'),
+  url('TTF/JetSetSans.ttf') format('truetype'),
+  url('OTF/JetSetSans.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'JetSetSans';
+  src: url('WOFF2/JetSetSansBold.woff2') format('woff2'),
+  url('WOFF/JetSetSansBold.woff') format('woff'),
+  url('TTF/JetSetSansBold.ttf') format('truetype'),
+  url('OTF/JetSetSansBold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Italic */
+@font-face {
+  font-family: 'JetSetSans';
+  src: url('WOFF2/JetSetSansItalic.woff2') format('woff2'),
+  url('WOFF/JetSetSansItalic.woff') format('woff'),
+  url('TTF/JetSetSansItalic.ttf') format('truetype'),
+  url('OTF/JetSetSansItalic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'JetSetSans';
+  src: url('WOFF2/JetSetSansBoldItalic.woff2') format('woff2'),
+  url('WOFF/JetSetSansBoldItalic.woff') format('woff'),
+  url('TTF/JetSetSansBoldItalic.ttf') format('truetype'),
+  url('OTF/JetSetSansBoldItalic.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'JetSetSans';
+  src: url('WOFF2/JetSetSansMedium.woff2') format('woff2'),
+  url('WOFF/JetSetSansMedium.woff') format('woff'),
+  url('TTF/JetSetSansMedium.ttf') format('truetype'),
+  url('OTF/JetSetSansMedium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Medium Italic */
+@font-face {
+  font-family: 'JetSetSans';
+  src: url('WOFF2/JetSetSansMediumItalic.woff2') format('woff2'),
+  url('WOFF/JetSetSansMediumItalic.woff') format('woff'),
+  url('TTF/JetSetSansMediumItalic.ttf') format('truetype'),
+  url('OTF/JetSetSansMediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
