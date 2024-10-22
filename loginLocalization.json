@@ -1,5 +1,6 @@
 {
   "en": {
+    "invalidUserPassword": "Wrong email or password.",
     "title": "Log in with Auth0",
     "userBlocked": "Account is locked. Please Reset Password or contact your admin.",
     "welcome": "Welcome!",
@@ -24,6 +25,7 @@
     "terms": "Policy"
   },
   "de": {
+    "invalidUserPassword": "Falsche E-Mail oder falsches Passwort.",
     "userBlocked": "Konto ist gesperrt. Bitte setzen Sie Ihr Passwort zurück oder kontaktieren Sie Ihren Administrator.",
     "title": "Anmelden mit Auth0",
     "welcome": "Herzlich willkommen!",
